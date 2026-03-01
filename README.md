@@ -74,9 +74,16 @@ review. We do NOT execute any OpenClaw code.
 - **Critical findings**: 25+ discrete risks identified
 - **Recommendations**: 22+ tiered recommendations
 
-## Study Started: 2026-02-28
-## Study Completed: 2026-02-28
-## Researcher: Tim Wu + Claude (Anthropic)
+## Contributors
+
+| Role | Name | Contribution |
+|---|---|---|
+| **Principal Researcher & Director** | [Tim Wu](https://github.com/timwukp) | Study conception, research direction, scope definition, phase planning, quality review, editorial decisions, and final approval of all findings |
+| **Research Assistant** | [Claude](https://claude.ai) (Anthropic, Opus 4.6) | Code analysis, document drafting, translation, and structured reasoning under human direction |
+
+## Study Timeline
+- **Started**: 2026-02-28
+- **Completed**: 2026-03-01
 
 ---
 
